@@ -1,7 +1,7 @@
 # ☕ Java Programming 
 
 This repository contains my **Java programming projects and assignments** developed during my studies at **COMSATS University**.  
-It includes basic to intermediate-level Java programs covering core concepts of **Object-Oriented Programming (OOP)**, data structures, and console-based applications.
+It includes basic to intermediate-level Java programs covering core concepts of **Object-Oriented Programming (OOP)**, and console-based applications.
 
 ---
 
@@ -42,7 +42,7 @@ This repo serves as a collection of **academic Java projects**, demonstrating my
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone or download this repository  
    ```bash
